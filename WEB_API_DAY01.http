@@ -1,0 +1,7 @@
+@WEB_API_DAY01_HostAddress = http://localhost:5202
+
+
+
+GET {{WEB_API_DAY01_HostAddress}}/api/student
+
+###
